@@ -1,1 +1,1 @@
-web: gunicorn paulFinal.wsgi --log-file -
+web: gunicorn FApp.wsgi --log-file -
